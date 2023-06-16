@@ -1,0 +1,16 @@
+body {
+  font-size: 1em;
+  color: white;
+  background-color: black;
+  display: flex;
+}
+
+section {
+  padding: 30px;
+  margin: 10px;
+}
+
+div {
+  padding: 5px;
+  margin: 10px;
+}
